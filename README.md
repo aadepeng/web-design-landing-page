@@ -1,6 +1,5 @@
 # web-design-landing-page
 
-3
 >Live Link : [Web Design Landing Page](https://webdesign-landing-page.netlify.app/)
 
 >This site should look like this - 
