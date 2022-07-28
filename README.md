@@ -1,7 +1,7 @@
 # web-design-landing-page
 
 3
->Live Link : [Web Design Landing Page](https://google.com)
+>Live Link : [Web Design Landing Page](https://webdesign-landing-page.netlify.app/)
 
 >This site should look like this - 
 ![Pic](https://raw.githubusercontent.com/aadepeng/web-design-landing-page/main/Web%20Design%20Landing%20Page.png)
